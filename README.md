@@ -1,0 +1,1 @@
+# 10--Laplacian-Autogenesis-and-Torsion-Kernel-Collapse
